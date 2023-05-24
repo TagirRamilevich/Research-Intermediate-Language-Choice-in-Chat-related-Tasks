@@ -1,5 +1,5 @@
 """
-Use this code to train model using BERT.
+Use this code to train model using mT5-base.
 """
 
 tokenizer = MT5Tokenizer.from_pretrained('google/mt5-base') 
